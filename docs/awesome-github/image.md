@@ -1,15 +1,13 @@
 ---
 sidebar_position: 1
-sidebar_label: 优秀博客
+sidebar_label: 优秀开发者
 ---
 
 # 图片工具
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
 ### 放大图片
 
-- [Sukka](https://skk.moe/) Sukka的个人博客
+- [andycall](https://github.com/andycall) webf作者
 - [docsifyjs](https://github.com/docsifyjs/docsify/) react文档工具
 - [namae](https://namae.dev/) 根据名字查看各个网站的使用情况
 - [colorhunt](https://colorhunt.co/) css颜色搭配网站
@@ -19,3 +17,5 @@ Let's discover **Docusaurus in less than 5 minutes**.
 - [simplelogin](https://simplelogin.io/) 匿名邮箱
 - [proton邮箱](https://proton.me/) 隐私邮箱
 - [v2ex](https://www.v2ex.com/) 技术论坛
+- [unsplash](https://unsplash.com/) 随机图片网站
+- [pexels](https://www.pexels.com/) 高清图片网站
