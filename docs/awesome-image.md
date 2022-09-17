@@ -14,8 +14,6 @@ sidebar_label: 图片工具
 - [docusaurus](https://github.com/facebook/docusaurus) react文档工具
 - [perfsee](https://github.com/perfsee/perfsee) 一组用于测量和调试前端应用程序性能的工具
 - [generated.photos](https://generated.photos/) 人工智能生成人类照片
-- [simplelogin](https://simplelogin.io/) 匿名邮箱
-- [proton邮箱](https://proton.me/) 隐私邮箱
 - [v2ex](https://www.v2ex.com/) 技术论坛
 - [unsplash](https://unsplash.com/) 随机图片网站
 - [pexels](https://www.pexels.com/) 高清图片网站
