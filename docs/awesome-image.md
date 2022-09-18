@@ -17,3 +17,5 @@ sidebar_label: 图片工具
 - [v2ex](https://www.v2ex.com/) 技术论坛
 - [unsplash](https://unsplash.com/) 随机图片网站
 - [pexels](https://www.pexels.com/) 高清图片网站
+- [pfpmaker](https://pfpmaker.com/) 上传图片制作头像
+- [bgsub](https://bgsub.cn/) 清楚图片背景
