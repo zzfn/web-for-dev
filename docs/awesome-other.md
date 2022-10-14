@@ -9,3 +9,4 @@ sidebar_label: 其他
 - [namae](https://namae.dev/) 根据名字查看各个网站的使用情况
 - [docusaurus](https://github.com/facebook/docusaurus) react文档工具
 - [v2ex](https://www.v2ex.com/) 技术论坛
+- [seo](https://ahrefs.com/zh/seo) 优化seo
