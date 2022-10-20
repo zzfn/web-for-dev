@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'web-for-dev',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -69,11 +69,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guide',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/zzfn/web-for-dev',
             label: 'GitHub',
             position: 'right',
           },
@@ -86,7 +86,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Guide',
                 to: '/docs/intro',
               },
             ],
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/zzfn/web-for-dev',
               },
             ],
           },
