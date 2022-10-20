@@ -21,3 +21,5 @@ sidebar_label: 工具集合
 - [caddyserver](https://caddyserver.com/) 可代替nginx的自动ssl的http服务
 - [tinywow](https://tinywow.com/) 解决各种文件问题，包括文件转化，下载
 - [anti-AD](https://anti-ad.net/) 广告过滤列表
+- [grammarly](https://www.grammarly.com/) AI写作
+- [copy](https://www.copy.ai/) AI写作
