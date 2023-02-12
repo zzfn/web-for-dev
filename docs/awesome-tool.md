@@ -6,7 +6,7 @@ sidebar_label: 工具集合
 ## 终端工具
 - [warp](https://www.warp.dev/) mac终端软件，需要登录
 - [WindTerm](https://github.com/kingToolbox/WindTerm) 跨平台终端工具
-
+- [fig](https://fig.io) 命令行提示工具
 
 
 ## 云部署
